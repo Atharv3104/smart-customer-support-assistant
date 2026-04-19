@@ -1,0 +1,1047 @@
+{
+    "session_1776492962080": [
+        {
+            "timestamp": "2026-04-18 11:46:30.929680",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! Please provide your **Order ID** (e.g., 12345)."
+        }
+    ],
+    "session_1776493487613": [
+        {
+            "timestamp": "2026-04-18 11:55:10.152282",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 11:55:22.652519",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. It is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 11:55:31.947590",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 11:55:40.862816",
+            "user_message": "how do i return an item?",
+            "ai_response": "I'm not quite sure I understand. Could you rephrase that? Or I can escalate you to a human agent."
+        },
+        {
+            "timestamp": "2026-04-18 11:55:50.069205",
+            "user_message": "connect to human agent",
+            "ai_response": "I'm escalating your chat to a human agent now to assist you better."
+        },
+        {
+            "timestamp": "2026-04-18 11:56:32.902834",
+            "user_message": "ok",
+            "ai_response": "Agent Sarah is currently typing..."
+        },
+        {
+            "timestamp": "2026-04-18 11:57:50.669401",
+            "user_message": "what problem?",
+            "ai_response": "Agent Sarah is currently typing..."
+        }
+    ],
+    "session_1776494123653": [
+        {
+            "timestamp": "2026-04-18 12:05:37.049843",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 12:05:48.403553",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. It is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 12:05:52.071647",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:05:54.447017",
+            "user_message": "how do i return an item?",
+            "ai_response": "I'm not quite sure I understand. Could you rephrase that? Or I can escalate you to a human agent."
+        },
+        {
+            "timestamp": "2026-04-18 12:06:01.186677",
+            "user_message": "connect to human agent",
+            "ai_response": "I'm escalating your chat to a human agent now to assist you better."
+        },
+        {
+            "timestamp": "2026-04-18 12:06:47.473911",
+            "user_message": "ok",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 12:06:58.837823",
+            "user_message": "i need a refund",
+            "ai_response": "Agent Sarah: I completely understand. I've noted down your issue regarding 'i need a refund...'. Please allow me 2-3 minutes to resolve this."
+        },
+        {
+            "timestamp": "2026-04-18 12:07:13.968530",
+            "user_message": "talk to a human",
+            "ai_response": "Agent Sarah: I completely understand. I've noted down your issue regarding 'talk to a human...'. Please allow me 2-3 minutes to resolve this."
+        },
+        {
+            "timestamp": "2026-04-18 12:07:59.119223",
+            "user_message": "ok",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 12:08:32.980555",
+            "user_message": "i have some faqs",
+            "ai_response": "Agent Sarah: I completely understand. I've noted down your issue regarding 'i have some faq...'. Please allow me 2-3 minutes to resolve this."
+        }
+    ],
+    "session_1776494721344": [
+        {
+            "timestamp": "2026-04-18 12:15:34.498629",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 12:15:40.068115",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. It is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 12:15:42.997043",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:15:44.984517",
+            "user_message": "how do i return an item?",
+            "ai_response": "I'm not quite sure I understand. Could you rephrase that? Or I can escalate you to a human agent."
+        },
+        {
+            "timestamp": "2026-04-18 12:15:47.135984",
+            "user_message": "connect to human agent",
+            "ai_response": "I'm escalating your chat to a human agent now to assist you better."
+        },
+        {
+            "timestamp": "2026-04-18 12:16:08.766627",
+            "user_message": "ok",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 12:16:17.620148",
+            "user_message": "what are your faqs?",
+            "ai_response": "Switching back to Nexus AI. Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:16:20.967894",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Hello there! I'm Nexus. How can I help you today?"
+        },
+        {
+            "timestamp": "2026-04-18 12:18:08.298128",
+            "user_message": "i want track my order or due to some problems so i cancel my order",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 12:18:15.686090",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. It is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 12:18:22.569661",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:18:24.377031",
+            "user_message": "how do i return an item?",
+            "ai_response": "I'm not quite sure I understand. Could you rephrase that? Or I can escalate you to a human agent."
+        },
+        {
+            "timestamp": "2026-04-18 12:18:25.887112",
+            "user_message": "connect to human agent",
+            "ai_response": "I'm escalating your chat to a human agent now to assist you better."
+        },
+        {
+            "timestamp": "2026-04-18 12:18:35.122005",
+            "user_message": "ok",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 12:18:55.886735",
+            "user_message": "talk to a human",
+            "ai_response": "Agent Sarah: I completely understand. I've noted down your issue regarding 'talk to a human...'. Please allow me 2-3 minutes to resolve this."
+        },
+        {
+            "timestamp": "2026-04-18 12:22:21.634861",
+            "user_message": "i need a refund",
+            "ai_response": "Agent Sarah: I completely understand. I've noted down your issue regarding 'i need a refund...'. Please allow me 2-3 minutes to resolve this."
+        },
+        {
+            "timestamp": "2026-04-18 12:22:37.548530",
+            "user_message": "end human chat",
+            "ai_response": "Chat reset. You are now speaking with Nexus AI again. How can I assist you?"
+        },
+        {
+            "timestamp": "2026-04-18 12:22:42.613739",
+            "user_message": "i need a refund",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:22:56.698983",
+            "user_message": "i need a refund",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:22:59.635012",
+            "user_message": "view refund policy",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:23:05.265537",
+            "user_message": "view refund policy",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:23:15.707034",
+            "user_message": "view refund policy",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:23:22.966211",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:23:27.678593",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Hello there! I'm Nexus. How can I help you today?"
+        },
+        {
+            "timestamp": "2026-04-18 12:23:48.166934",
+            "user_message": "i need to know my order tracking",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 12:24:01.673970",
+            "user_message": "123456",
+            "ai_response": "I found your order ID 123456. It is currently **Out for Delivery** and should arrive by 8 PM today."
+        }
+    ],
+    "session_1776495554819": [
+        {
+            "timestamp": "2026-04-18 12:29:28.526444",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 12:29:34.590341",
+            "user_message": "123",
+            "ai_response": "I found your order ID 123. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 12:29:50.280589",
+            "user_message": "i need a refund",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:29:55.618897",
+            "user_message": "view refund policy",
+            "ai_response": "Standard refunds normally take **3-5 business days** to process."
+        },
+        {
+            "timestamp": "2026-04-18 12:30:02.836010",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:30:06.718848",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 12:30:13.335651",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 12:30:38.211020",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to a human agent now to assist you better."
+        },
+        {
+            "timestamp": "2026-04-18 12:30:52.661829",
+            "user_message": "okay",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 12:31:43.811841",
+            "user_message": "give me the product details of my order",
+            "ai_response": "Agent Sarah: I completely understand. I've noted down your issue regarding 'give me the pro...'. Please allow me 2-3 minutes to resolve this."
+        }
+    ],
+    "session_1776496675848": [
+        {
+            "timestamp": "2026-04-18 12:48:09.909740",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 12:48:14.881156",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 12:48:21.682302",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:48:25.852908",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 12:48:31.265024",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 12:48:34.319693",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund money will be returned by the payment mode which you have used early while ordering the product."
+        },
+        {
+            "timestamp": "2026-04-18 12:48:42.444999",
+            "user_message": "view refund policy",
+            "ai_response": "Your refund money will be returned by the payment mode which you have used early while ordering the product."
+        },
+        {
+            "timestamp": "2026-04-18 12:49:36.700673",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 12:49:40.269284",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 12:49:47.417952",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 12:49:50.201134",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to a human agent now to assist you better."
+        },
+        {
+            "timestamp": "2026-04-18 12:50:00.551770",
+            "user_message": "okay",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 12:50:42.804988",
+            "user_message": "give the product details which i have orderd",
+            "ai_response": "Agent Sarah: I have looked into your query about 'give the produc...'. I have instantly resolved this issue for you! Let me know if you need anything else."
+        }
+    ],
+    "session_1776497454615": [
+        {
+            "timestamp": "2026-04-18 13:01:09.061324",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:01:14.553200",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:01:20.868196",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:01:23.685501",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:01:30.283818",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:01:33.184530",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:01:39.493609",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        }
+    ],
+    "session_1776497508868": [
+        {
+            "timestamp": "2026-04-18 13:02:34.135354",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:02:38.803251",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:02:46.851640",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:02:49.529309",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:02:57.883676",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:03:01.967776",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:03:09.084854",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        }
+    ],
+    "session_1776498446508": [
+        {
+            "timestamp": "2026-04-18 13:17:36.318972",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:17:40.235676",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:17:44.100752",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:17:45.634542",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:17:49.033438",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:17:51.350709",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:17:55.068247",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 13:17:56.970149",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 13:18:06.187867",
+            "user_message": "okay",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        },
+        {
+            "timestamp": "2026-04-18 13:18:14.552957",
+            "user_message": "1",
+            "ai_response": "Agent Sarah: 1. The product details include specifications such as size, material, features, and usage instructions, which are available on the product page."
+        },
+        {
+            "timestamp": "2026-04-18 13:18:28.300803",
+            "user_message": "2",
+            "ai_response": "Agent Sarah: 2. Available sizes and colors are listed on the product page. You can select your preferred option before placing the order."
+        }
+    ],
+    "session_1776498634831": [
+        {
+            "timestamp": "2026-04-18 13:20:55.221392",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:20:59.472499",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:03.714954",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:14.127852",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:19.468591",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:21:22.518808",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:28.129706",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:30.855049",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 13:21:41.256869",
+            "user_message": "1",
+            "ai_response": "Agent Sarah: 1. The product details include specifications such as size, material, features, and usage instructions, which are available on the product page."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:45.438561",
+            "user_message": "2",
+            "ai_response": "Agent Sarah: 2. Available sizes and colors are listed on the product page. You can select your preferred option before placing the order."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:47.436012",
+            "user_message": "3",
+            "ai_response": "Agent Sarah: 3. All products are genuine and may include a manufacturer warranty if specified in the product details."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:49.353972",
+            "user_message": "4",
+            "ai_response": "Agent Sarah: 4. The product price is displayed on the product page and includes applicable taxes. Any additional charges will be shown at checkout."
+        },
+        {
+            "timestamp": "2026-04-18 13:21:50.624703",
+            "user_message": "5",
+            "ai_response": "Agent Sarah: 5. Stock availability is updated on the product page. If unavailable, the product will be marked as \u201cOut of Stock.\u201d"
+        },
+        {
+            "timestamp": "2026-04-18 13:22:38.854234",
+            "user_message": "6",
+            "ai_response": "Agent Sarah: 6. Orders are typically delivered within 3\u20137 business days, depending on location and availability."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:40.270056",
+            "user_message": "7",
+            "ai_response": "Agent Sarah: 7. Delivery charges, if applicable, are displayed at checkout before completing the payment."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:41.821184",
+            "user_message": "8",
+            "ai_response": "Agent Sarah: 8. Once the order is shipped, a tracking link will be shared via SMS or email for real-time tracking."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:43.316034",
+            "user_message": "9",
+            "ai_response": "Agent Sarah: 9. Multiple payment options are available, including Debit/Credit Cards, UPI, Net Banking, and Cash on Delivery (if applicable)."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:44.974104",
+            "user_message": "10",
+            "ai_response": "Agent Sarah: 10. All online transactions are secured with encryption to ensure safe and reliable payments."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:46.994030",
+            "user_message": "11",
+            "ai_response": "Agent Sarah: 11. Orders can be canceled before they are shipped through the user account or by contacting customer support."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:48.398305",
+            "user_message": "12",
+            "ai_response": "Agent Sarah: 12. Refund requests can be submitted through the user account or by contacting customer support with order details."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:49.953507",
+            "user_message": "13",
+            "ai_response": "Agent Sarah: 13. Refunds are generally processed within 5\u201310 business days after approval."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:51.506291",
+            "user_message": "14",
+            "ai_response": "Agent Sarah: 14. The refund amount will be credited to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:53.037275",
+            "user_message": "15",
+            "ai_response": "Agent Sarah: 15. Returns are accepted within the specified return period if the product is unused and in its original condition."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:54.683497",
+            "user_message": "16",
+            "ai_response": "Agent Sarah: 16. In case of a damaged or incorrect product, customer support should be contacted immediately with relevant details and proof for resolution."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:57.839804",
+            "user_message": "17",
+            "ai_response": "Agent Sarah: 17. Customer support can be contacted via email, phone, or through the help section of the app or website."
+        },
+        {
+            "timestamp": "2026-04-18 13:22:59.502576",
+            "user_message": "18",
+            "ai_response": "Agent Sarah: 18. Any available discounts or offers are displayed on the product page or during checkout."
+        },
+        {
+            "timestamp": "2026-04-18 13:23:01.088693",
+            "user_message": "19",
+            "ai_response": "Agent Sarah: 19. The delivery address can be updated before the order is shipped by contacting customer support."
+        },
+        {
+            "timestamp": "2026-04-18 13:23:02.636403",
+            "user_message": "20",
+            "ai_response": "Agent Sarah: 20. If delivery is missed, the courier service will attempt redelivery or contact the user to reschedule the delivery."
+        },
+        {
+            "timestamp": "2026-04-18 13:23:04.117107",
+            "user_message": "21",
+            "ai_response": "Agent Sarah: Could you please provide more details so I can assist you correctly?"
+        }
+    ],
+    "session_1776499446312": [
+        {
+            "timestamp": "2026-04-18 13:34:22.077582",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:25.965530",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:30.002823",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:32.801410",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:36.087740",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:34:37.963651",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:40.837270",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:42.667882",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 13:34:45.887839",
+            "user_message": "1",
+            "ai_response": "Agent Sarah: 1. The product details include specifications such as size, material, features, and usage instructions, which are available on the product page."
+        },
+        {
+            "timestamp": "2026-04-18 13:34:49.253747",
+            "user_message": "11",
+            "ai_response": "Agent Sarah: 11. Orders can be canceled before they are shipped through the user account or by contacting customer support."
+        }
+    ],
+    "session_1776499554420": [
+        {
+            "timestamp": "2026-04-18 13:36:33.722281",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:36:38.720699",
+            "user_message": "65987",
+            "ai_response": "I found your order ID 65987. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:36:42.664371",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:36:45.754351",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 13:36:48.386797",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:36:50.520127",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:36:53.036636",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:36:55.737286",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 13:36:59.750178",
+            "user_message": "14",
+            "ai_response": "Agent Sarah: 14. The refund amount will be credited to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:37:04.266577",
+            "user_message": "20",
+            "ai_response": "Agent Sarah: 20. If delivery is missed, the courier service will attempt redelivery or contact the user to reschedule the delivery."
+        }
+    ],
+    "session_1776500674558": [
+        {
+            "timestamp": "2026-04-18 13:54:52.510037",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:54:55.497692",
+            "user_message": "123456",
+            "ai_response": "I found your order ID 123456. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:54:58.703486",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:00.480637",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:01.755324",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:55:03.542566",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:07.879609",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:09.518512",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 13:55:12.666534",
+            "user_message": "talk to a human",
+            "ai_response": "Agent Sarah: I have looked into your query about 'talk to a human...'. I have instantly resolved this issue for you! Let me know if you need anything else."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:16.951809",
+            "user_message": "9",
+            "ai_response": "Agent Sarah: 9. Multiple payment options are available, including Debit/Credit Cards, UPI, Net Banking, and Cash on Delivery (if applicable)."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:45.821415",
+            "user_message": "where is my order?",
+            "ai_response": "Agent Sarah: That's a great question. Let me verify that with our specialized department right now."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:47.418700",
+            "user_message": "i need a refund",
+            "ai_response": "Agent Sarah: I have looked into your query about 'i need a refund...'. I have instantly resolved this issue for you! Let me know if you need anything else."
+        },
+        {
+            "timestamp": "2026-04-18 13:55:48.908970",
+            "user_message": "what are your faqs?",
+            "ai_response": "Switching back to Nexus AI. Here are some of our most frequently asked questions:"
+        }
+    ],
+    "session_1776500811198": [
+        {
+            "timestamp": "2026-04-18 13:57:01.222800",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:06.810869",
+            "user_message": "23",
+            "ai_response": "I found your order ID 23. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:09.143546",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:11.467706",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:12.832071",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 13:57:15.050372",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:17.481055",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:19.426185",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 13:57:21.901910",
+            "user_message": "1",
+            "ai_response": "Agent Sarah: 1. The product details include specifications such as size, material, features, and usage instructions, which are available on the product page."
+        },
+        {
+            "timestamp": "2026-04-18 13:57:23.365776",
+            "user_message": "11",
+            "ai_response": "Agent Sarah: 11. Orders can be canceled before they are shipped through the user account or by contacting customer support."
+        }
+    ],
+    "session_1776501554604": [
+        {
+            "timestamp": "2026-04-18 14:09:31.166994",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 14:09:34.580448",
+            "user_message": "1",
+            "ai_response": "Agent Sarah: 1. The product details include specifications such as size, material, features, and usage instructions, which are available on the product page."
+        }
+    ],
+    "session_1776501728085": [
+        {
+            "timestamp": "2026-04-18 14:12:23.438563",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 14:12:31.995660",
+            "user_message": "where is my order?",
+            "ai_response": "That doesn't look like a valid numeric Order ID. **Please simply type your tracking number into the text box below and click send.**"
+        },
+        {
+            "timestamp": "2026-04-18 14:12:48.215623",
+            "user_message": "where is my order?",
+            "ai_response": "That doesn't look like a valid numeric Order ID. **Please simply type your tracking number into the text box below and click send.**"
+        },
+        {
+            "timestamp": "2026-04-18 14:13:01.135448",
+            "user_message": "i need a refund",
+            "ai_response": "That doesn't look like a valid numeric Order ID. **Please simply type your tracking number into the text box below and click send.**"
+        },
+        {
+            "timestamp": "2026-04-18 14:13:05.752321",
+            "user_message": "talk to a human",
+            "ai_response": "That doesn't look like a valid numeric Order ID. **Please simply type your tracking number into the text box below and click send.**"
+        },
+        {
+            "timestamp": "2026-04-18 14:13:07.896662",
+            "user_message": "what are your faqs?",
+            "ai_response": "That doesn't look like a valid numeric Order ID. **Please simply type your tracking number into the text box below and click send.**"
+        },
+        {
+            "timestamp": "2026-04-18 14:13:13.350929",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 14:13:17.693621",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 14:13:21.817763",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 14:13:23.334718",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        }
+    ],
+    "session_1776503131395": [
+        {
+            "timestamp": "2026-04-18 14:36:09.751138",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 14:36:14.334648",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 14:36:20.795475",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 14:36:25.143257",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 14:36:28.367298",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 14:36:30.348156",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 14:36:32.787071",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 14:36:34.496712",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 14:36:43.784924",
+            "user_message": "12",
+            "ai_response": "Agent Sarah: 12. Refund requests can be submitted through the user account or by contacting customer support with order details."
+        }
+    ],
+    "session_1776503654089": [
+        {
+            "timestamp": "2026-04-18 14:58:43.081686",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 14:58:49.185541",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        }
+    ],
+    "session_1776504535444": [
+        {
+            "timestamp": "2026-04-18 14:59:52.558377",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 14:59:58.167673",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 15:00:00.868791",
+            "user_message": "need more help",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 15:00:02.570770",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 15:00:05.957404",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        }
+    ],
+    "session_1776504716718": [
+        {
+            "timestamp": "2026-04-18 15:27:03.779536",
+            "user_message": "where is my order?",
+            "ai_response": "I can definitely help you track your order! **Please type your Order ID into the chat box below and hit send (e.g., 12345)**."
+        },
+        {
+            "timestamp": "2026-04-18 15:27:12.480587",
+            "user_message": "12345",
+            "ai_response": "I found your order ID 12345. Your order for **Sony Noise-Cancelling Headphones ($149.99)** is currently **Out for Delivery** and should arrive by 8 PM today."
+        },
+        {
+            "timestamp": "2026-04-18 15:27:20.444077",
+            "user_message": "i need a refund",
+            "ai_response": "Your refund will be processed shortly and the amount will be credited back to the original payment method used during the purchase."
+        },
+        {
+            "timestamp": "2026-04-18 15:27:44.305843",
+            "user_message": "view refund policy",
+            "ai_response": "Thank you for using our service. Please read our refund policy carefully.<br>1.Refunds are only applicable in cases of duplicate payment, incorrect amount paid, or technical errors.<br>2.Refund requests must be submitted within 7 working days of the transaction.<br>3.Once approved, the refund will be processed within 5\u201310 business days to the original payment method.<br>4.No refunds will be issued for successfully completed services unless there is a valid issue."
+        },
+        {
+            "timestamp": "2026-04-18 15:27:49.183878",
+            "user_message": "what are your faqs?",
+            "ai_response": "Here are some of our most frequently asked questions:"
+        },
+        {
+            "timestamp": "2026-04-18 15:27:57.635761",
+            "user_message": "how do i return an item?",
+            "ai_response": "You can return most items within 30 days of receipt. Please visit our returns page to print a prepaid shipping label."
+        },
+        {
+            "timestamp": "2026-04-18 15:28:05.791077",
+            "user_message": "do you ship internationally?",
+            "ai_response": "Yes, we ship internationally! International shipping typically takes 7-14 business days, and additional customs fees may apply."
+        },
+        {
+            "timestamp": "2026-04-18 15:28:11.510683",
+            "user_message": "talk to a human",
+            "ai_response": "I'm escalating your chat to Agent Sarah. Meanwhile, here are some questions she can answer for you:<br><br>1. What are the details of this product?<br>2. Is this product available in different sizes or colors?<br>3. Is the product original and does it have a warranty?<br>4. What is the price of the product?<br>5. Is this product currently in stock?<br>6. When will my order be delivered?<br>7. What are the delivery charges?<br>8. Can I track my order?<br>9. What payment methods are available?<br>10. Is online payment safe?<br>11. Can I cancel my order after placing it?<br>12. How can I request a refund?<br>13. How long does it take to receive a refund?<br>14. Will the refund be sent to my original payment method?<br>15. Can I return the product if I don\u2019t like it?<br>16. What should I do if I receive a damaged or wrong product?<br>17. How can I contact customer support?<br>18. Are there any discounts or offers available?<br>19. Can I change my delivery address after placing the order?<br>20. What happens if I miss the delivery?<br><br>**Please enter the question number to get an instant answer!**"
+        },
+        {
+            "timestamp": "2026-04-18 15:28:22.410644",
+            "user_message": "12",
+            "ai_response": "Agent Sarah: 12. Refund requests can be submitted through the user account or by contacting customer support with order details."
+        }
+    ]
+}

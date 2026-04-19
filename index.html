@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus - Smart Support Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="blob-bg"></div>
+    <div class="blob-bg blob-2"></div>
+    <div class="blob-bg blob-3"></div>
+    <div class="login-container" id="loginContainer">
+        <div class="login-box">
+            <div class="logo">
+                <svg viewBox="0 0 24 24" width="48" height="48" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12 2a10 10 0 1 0 10 10H12V2z"></path>
+                    <path d="M12 12 2.1 7.1"></path>
+                    <path d="M12 12l2.1 9.9"></path>
+                    <path d="M12 12l9.9-2.1"></path>
+                </svg>
+            </div>
+            <h2>Welcome to Nexus</h2>
+            <p>Please login to continue</p>
+            
+            <form id="loginForm" class="login-form">
+                <div class="input-wrapper">
+                    <label>Email or Mobile Number</label>
+                    <input type="text" id="loginInput" placeholder="Enter your email or mobile..." required>
+                </div>
+                <div class="input-wrapper">
+                    <label>Password</label>
+                    <input type="password" id="passwordInput" placeholder="Enter password (any)" required>
+                </div>
+                <button type="submit" class="login-btn">Login to Dashboard</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="app-container" id="appContainer" style="display: none;">
+        <!-- Sidebar / Branding -->
+        <div class="sidebar">
+            <div class="brand">
+                <div class="logo">
+                    <svg viewBox="0 0 24 24" width="32" height="32" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2a10 10 0 1 0 10 10H12V2z"></path>
+                        <path d="M12 12 2.1 7.1"></path>
+                        <path d="M12 12l2.1 9.9"></path>
+                        <path d="M12 12l9.9-2.1"></path>
+                    </svg>
+                </div>
+                <h1>Nexus</h1>
+            </div>
+            <div class="slogan">
+                <h2>Intelligent Customer Resolution.</h2>
+                <p>Automate repetitive queries, streamline order tracking, and elevate your customer experience effortlessly.</p>
+            </div>
+            
+            <div class="features-list">
+                <div class="feature-item">
+                    <div class="feature-icon">✨</div>
+                    <div class="feature-text">Real-time NLP Responses</div>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">📦</div>
+                    <div class="feature-text">Instant Order Tracking</div>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">💳</div>
+                    <div class="feature-text">Refund & Payment Help</div>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">👩‍💻</div>
+                    <div class="feature-text">Human Escalation</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Container -->
+        <div class="chat-interface">
+            <div class="chat-header">
+                <div class="header-info">
+                    <div class="ai-avatar">
+                        <img src="https://ui-avatars.com/api/?name=Nexus&background=0D8ABC&color=fff&rounded=true&bold=true" alt="AI Agent">
+                        <div class="status-dot"></div>
+                    </div>
+                    <div class="agent-details">
+                        <h2>Nexus AI</h2>
+                        <p>Typically replies instantly</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button id="clearBtn" title="Clear Chat">
+                        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+                    </button>
+                </div>
+            </div>
+
+            <div class="chat-messages" id="chatMessages">
+                <!-- Messages will be injected here -->
+            </div>
+
+            <!-- Predefined query chips -->
+            <div class="quick-replies" id="quickReplies">
+                <button class="chip" onclick="handleQuickReply('Where is my order?')">Order Status</button>
+                <button class="chip" onclick="handleQuickReply('I need a refund')">Refunds</button>
+                <button class="chip" onclick="handleQuickReply('What are your FAQs?')">FAQs</button>
+                <button class="chip" onclick="handleQuickReply('Talk to a human')">Human Agent</button>
+            </div>
+
+            <!-- Input Area -->
+            <div class="chat-input-container">
+                <input type="text" id="userInput" placeholder="Type your message here..." autocomplete="off">
+                <button id="voiceBtn" class="voice-btn" title="Voice Input (Mock)">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line></svg>
+                </button>
+                <button id="sendBtn" class="send-btn">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
